@@ -24,4 +24,4 @@ I made four Power BI Sheets includes, Project Overview, Products page, Product V
 
 **Project Video**
 
-https://github.com/abdullahayub/Amazon-Dashboard-Power-BI-Project/assets/37545634/f7ea15e8-3e46-4c51-83bc-c307599c01fd
+https://github.com/abdullahayub/Amazon-Dashboard-Power-BI-Project/assets/37545634/e6fbdf67-f995-4306-b72a-e7edc1e7562d
