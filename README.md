@@ -22,8 +22,7 @@ I made four Power BI Sheets includes, Project Overview, Products page, Product V
 **Product Tool tip section**
 - To View the product details.
 
-** Click here for Live Dashboard**
-https://app.powerbi.com/view?r=eyJrIjoiNjRlZWI1MTAtZjZkNC00MzNlLTllYzktZTE5Y2RjYzZkZmRhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+**Click here for <a href="https://app.powerbi.com/view?r=eyJrIjoiNjRlZWI1MTAtZjZkNC00MzNlLTllYzktZTE5Y2RjYzZkZmRhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="blank">Live Dashboard**</a> 
 
 **Project Video**
 
