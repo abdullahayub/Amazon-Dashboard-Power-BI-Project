@@ -22,6 +22,9 @@ I made four Power BI Sheets includes, Project Overview, Products page, Product V
 **Product Tool tip section**
 - To View the product details.
 
+** Click here for Live Dashboard**
+https://app.powerbi.com/view?r=eyJrIjoiNjRlZWI1MTAtZjZkNC00MzNlLTllYzktZTE5Y2RjYzZkZmRhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 **Project Video**
 
 https://github.com/abdullahayub/Amazon-Dashboard-Power-BI-Project/assets/37545634/e6fbdf67-f995-4306-b72a-e7edc1e7562d
